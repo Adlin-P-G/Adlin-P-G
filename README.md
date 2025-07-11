@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZtaG5iMmN2dGE2Y3N4cmdldnlzaTM0MTJjM3R0NWRzdnlscG9udCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vishwajeeva-k3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Adlin-P-G-k3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 ---
