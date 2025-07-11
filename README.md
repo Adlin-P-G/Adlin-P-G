@@ -6,7 +6,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3><p align="center"><b> Software Developer </b></p></h3>
 
-<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZtaG5iMmN2dGE2Y3N4cmdldnlzaTM0MTJjM3R0NWRzdnlscG9udCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/kyeNs4DnuW0AAAAM/dev-animado.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Adlin-P-G-k3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
