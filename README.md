@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/KIRAN-KUMAR-K3/badges/blob/main/BANNER7.png" alt="Logo">
+  <img src="https://github.com/KIRAN-KUMAR-K3/badges/blob/main/Untitled design.png" alt="Logo">
 </div>
 <h1 align="center">Hi 👋, Adlin P.G</h1>
 
